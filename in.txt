@@ -1,0 +1,38 @@
+T_int  fun_main fbs fbe 
+
+T_int let_a;
+T_int let_b equ_oprtr 5 ;
+a equ_oprtr 7 ;
+T_int let_c,let_d ;
+let_c equ_oprtr  let_b plus_oprtr let_c ;
+
+con_if fbs let_b g_oprtr let_c fbe 
+sbs
+sbe
+con_else 
+sbs
+sbe
+T_int let_i equ_oprtr 0 ;
+lp_for fbs let_i lp_lim let_a fbe 
+sbs
+sbe
+
+con_swi fbs 2 fbe
+	sbs
+		1::
+			sbs
+
+			sbe
+		2::
+			sbs
+
+			sbe
+
+
+		**::  sbs
+
+			sbe
+	sbe
+
+
+sbs
