@@ -1,0 +1,39 @@
+summon cell.h
+summon_majin()
+{_
+ @Int a
+ @Float b
+ @Char c
+ @String d
+ @Array[4]
+ a=1
+ b=1.1
+ c='d'
+ d="ashdga"
+ d=e
+ go_to func()
+ -_this is a comment
+ $$this is 
+ a multiple line comment$$
+ while |a<=2| holds
+ {_
+ a=1+a
+ _}
+ keep_doing
+ {_
+ _}
+ while(a>b)
+ for a in (1`5) keep_doing
+ {_
+ _}
+ if a>b holds
+ {_
+ _}
+ or b<c holds
+ {_
+ _}
+ otherwise
+ {_
+ int a
+ _}
+_}

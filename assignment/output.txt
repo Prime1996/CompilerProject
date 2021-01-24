@@ -1,0 +1,76 @@
+Header file included
+
+Main function found
+
+Start of a block of code
+
+Integer type variable Declared
+
+Float type variable Declared
+
+Character type variable Declared
+
+String type variable Declared
+
+Array Declared
+
+variable assigned
+
+variable assigned
+
+variable assigned
+String assigned
+
+variable to variable assignment
+
+function found
+
+single line comment
+
+Invalid syntax
+
+Invalid syntax
+
+While loop
+
+Start of a block of code
+
+Addition operation
+
+End of a block of code
+
+do block of do while
+
+Start of a block of code
+
+End of a block of code
+
+while of do
+
+For loop
+
+Start of a block of code
+
+End of a block of code
+
+If statement
+
+Start of a block of code
+
+End of a block of code
+
+or(similar to else if) statement
+
+Start of a block of code
+
+End of a block of code
+
+otherwis(similar to else) statement
+
+Start of a block of code
+
+Invalid syntax
+
+End of a block of code
+
+End of a block of code
